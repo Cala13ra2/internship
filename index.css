@@ -14,7 +14,7 @@ header {
 .section {
   border-radius: 10px;
   border: 2px solid orange;
-  background-color: rgba(255, 166, 0, 0.637);
+  background-color: black;
   display: flex;
 }
 .intro {
@@ -26,10 +26,11 @@ button {
 }
 section {
   font-size: larger;
+  font-family: Arial, Helvetica, serif;
   /* background-color: white; */
   /* color: black; */
   /* margin-left: 100px; */
-  margin-top: 20px;
+  /* margin-top: 20px; */
   margin-left: 1px;
   margin-right: 1px;
   padding: 20px;
