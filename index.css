@@ -16,7 +16,8 @@ section {
   font-size: larger;
   /* background-color: white; */
   /* color: black; */
-  margin-left: 100px;
+  /* margin-left: 100px; */
+  margin-top: 20px;
   background-image: url(./img/WhatsApp\ Image\ 2024-02-09\ at\ 11.04.46_34ac0d26.jpg);
 }
 input {
