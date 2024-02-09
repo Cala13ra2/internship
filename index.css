@@ -11,10 +11,16 @@ header {
   /* margin-right: 30px; */
   justify-content: end;
 }
+img {
+  width: 100px;
+}
 .section {
   border-radius: 10px;
   border: 2px solid orange;
   background-color: black;
+  display: flex;
+}
+.container {
   display: flex;
 }
 .intro {
