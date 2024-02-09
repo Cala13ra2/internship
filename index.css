@@ -18,6 +18,7 @@ img {
   border-radius: 10px;
   border: 2px solid orange;
   background-color: black;
+  color: white;
   display: flex;
 }
 .container {
