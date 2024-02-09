@@ -1,0 +1,67 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+header {
+  background-color: orange;
+  display: flex;
+  margin-right: 30px;
+  justify-content: end;
+}
+button {
+  margin-left: 10px;
+  background-color: orange;
+}
+section {
+  font-size: larger;
+  /* background-color: white; */
+  /* color: black; */
+  margin-left: 100px;
+  background-image: url(./img/WhatsApp\ Image\ 2024-02-09\ at\ 11.04.46_34ac0d26.jpg);
+}
+input {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+span {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+h1,
+h3 {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  /* margin-left: 150px; */
+  /* font-size: 80px; */
+  font-weight: 200;
+}
+.file {
+  margin-top: 20px;
+}
+p {
+  display: flex;
+  justify-content: space-between;
+}
+.submit {
+  background-color: orange;
+  width: 500px;
+}
+@media only screen and (max-width: 584px) {
+  section {
+    max-width: 100%;
+  }
+  div {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  h1,
+  h3 {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    /* margin-left: 150px; */
+    font-size: 20px;
+    font-weight: 200;
+  }
+}
