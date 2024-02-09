@@ -5,7 +5,7 @@ div {
 header {
   background-color: orange;
   display: flex;
-  margin-right: 30px;
+  /* margin-right: 30px; */
   justify-content: end;
 }
 button {
@@ -50,6 +50,7 @@ p {
 @media only screen and (max-width: 584px) {
   section {
     max-width: 100%;
+    background-image: url(./img/WhatsApp\ Image\ 2024-02-09\ at\ 11.04.46_34ac0d26.jpg);
   }
   div {
     display: flex;
